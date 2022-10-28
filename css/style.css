@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  height: 500px;
+  font: bold 50px/1 "arial";
+  background: #ccc;
+}
+
+/*# sourceMappingURL=style.css.map */
